@@ -37,7 +37,7 @@
 
 # 南京理工大学
 
-- 【截止时间：N/A】 [计算机学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)
+- 【截止时间：9.10】 [计算机学院](https://cs.njust.edu.cn/df/4c/c1820a319308/page.htm)
 
 
 # 暨南大学
