@@ -16,4 +16,4 @@
 
 # 目录
 
-- [a校、b校、c校的xxx院经验分享](./README.md)
+- [a校、b校、c校的xxx院经验分享示例](./README.md)

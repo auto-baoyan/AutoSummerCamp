@@ -15,4 +15,4 @@
 
 # 目录
 
-- [xxx实验室招生实例](./README.md)
+- [xxx实验室招生示例](./README.md)
