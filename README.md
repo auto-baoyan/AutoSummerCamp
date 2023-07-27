@@ -36,7 +36,7 @@
 > http://yzb.tju.edu.cn/xwzx/zxxx/202307/t20230715_323276.htm
 
 - 【截止时间：8.16 中午12点】 [电气工程学院](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
-- 
+
 
 
 # 西安电子科技大学
