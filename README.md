@@ -29,7 +29,7 @@
 - 【截止时间：8.14 中午12点】 [电子科学与工程学院](https://electronic.seu.edu.cn/2023/0707/c11479a450947/page.htm)
 - 【截止时间：8.10 中午12点】 [信息科学与工程学院](https://radio.seu.edu.cn/2023/0629/c19195a449917/page.htm)
 - 【截止时间：8.5 中午12点】 [计算机科学与工程学院](https://cse.seu.edu.cn/2023/0627/c22646a449677/page.htm)
-- 【截止时间：7.27 中午12点】 [自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
+- ~~【截止时间：7.27 中午12点】 [自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)~~
 
 # 天津大学
 
