@@ -38,10 +38,17 @@
 - 【截止时间：第一批 8.11 第二批9.8】 [自动化学院](http://seea.tju.edu.cn/info/1031/3891.htm)
 
 
+# 苏州大学
+
+- 【截止时间：9.25 中午12点】 [研招办](http://yjs.suda.edu.cn/43/57/c8365a541527/page.htm)
+
 # 北京师范大学
 
 - 【截止时间：第一批 8.18】 [人工智能学院](https://cist.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)
 
+# 北京科技大学
+
+- 【截止时间：9.1】 [智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/2284eddc08894d7491456958715e74c6.htm)
 
 # 西安电子科技大学
 
