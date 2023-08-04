@@ -49,6 +49,7 @@
 # 北京科技大学
 
 - 【截止时间：9.1】 [智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/2284eddc08894d7491456958715e74c6.htm)
+- 【截止日期：8.16】 [计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
 
 # 西安电子科技大学
 
