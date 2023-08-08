@@ -36,7 +36,7 @@
 
 > [南大预推免通知](https://yzb.nju.edu.cn/ae/49/c47863a634441/page.htm)
 
-- 【**截止时间**】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
+- 【**截止时间8.27 23：59：59**】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
 
 # 东南大学
 
