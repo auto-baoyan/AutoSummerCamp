@@ -20,6 +20,7 @@
 
 - 【**开始时间：8.7 中午12点** 截止时间：8.21 下午16点】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
 - 【**开始时间：8.7 中午12点** 截止时间：8.21 下午16点】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
+- 【**开始时间：8.7 中午12点** 截止时间：8.21 下午16点】 [网络研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
 
 # 东南大学
 
