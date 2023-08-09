@@ -32,6 +32,11 @@
 -  【**开始时间：8.10 上午9点 截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 -  【**开始时间：8.10 上午9点 截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 
+# 西湖大学
+> [招收直博生公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
+
+- 【**截止时间 8月28日12:00**】 [工学院-西湖大学独立培养电子科学与技术-浙大联合培养计算机科学与技术](https://gradadmission.westlake.edu.cn)
+
 # 南京大学
 
 > [南大预推免通知](https://yzb.nju.edu.cn/ae/49/c47863a634441/page.htm)
@@ -124,7 +129,9 @@
 
 - 【**截止时间：9.20**】 [研招办](https://yzb.nwu.edu.cn/info/1009/1559.htm)
 
+# 西南财经大学
 
+- 【**截至时间 9.5**】[计算机与人工智能学院预推免](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
 
 
 ---
