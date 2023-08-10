@@ -27,10 +27,10 @@
 
 > [浙大研招网](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 
--  【**开始时间：8.10 上午9点 截止时间：9.11**】 [计算机科学与技术学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
--  【**开始时间：8.10 上午9点 截止时间：9.15**】 [控制科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
--  【**开始时间：8.10 上午9点 截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
--  【**开始时间：8.10 上午9点 截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
+-  【**截止时间：9.11**】 [计算机科学与技术学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
+-  【**截止时间：9.15**】 [控制科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
+-  【**截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
+-  【**截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 
 # 西湖大学
 > [招收直博生公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
@@ -49,7 +49,7 @@
 
 - 【**截止时间：8.16 中午12点**】 [电气工程学院](https://ee.seu.edu.cn/2023/0625/c25184a449533/page.htm)
 - 【**截止时间：8.14 中午12点**】 [电子科学与工程学院](https://electronic.seu.edu.cn/2023/0707/c11479a450947/page.htm)
-- 【**截止时间：8.10 中午12点**】 [信息科学与工程学院](https://radio.seu.edu.cn/2023/0629/c19195a449917/page.htm)
+- ~~【**截止时间：8.10 中午12点**】 [信息科学与工程学院](https://radio.seu.edu.cn/2023/0629/c19195a449917/page.htm)~~
 - ~~【**截止时间：8.5 中午12点**】 [计算机科学与工程学院](https://cse.seu.edu.cn/2023/0627/c22646a449677/page.htm)~~
 - ~~【**截止时间：7.27 中午12点**】 [自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)~~
 
