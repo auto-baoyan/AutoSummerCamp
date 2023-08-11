@@ -146,7 +146,7 @@
 
 # 首都师范大学
 
-> 【**截止时间：N/A**】[首都师范大学研究生院](https://grad.cnu.edu.cn/tzgg/cfc03bcdc4e147ca9a123846fc0f664f.htm)
+- 【**截止时间：N/A**】[首都师范大学研究生院](https://grad.cnu.edu.cn/tzgg/cfc03bcdc4e147ca9a123846fc0f664f.htm)
 
 # 西北大学
 
