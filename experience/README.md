@@ -1,7 +1,7 @@
 # experience2023
 
 <div align=center> 
-<a href=../README.md>推免信息</a>|<a href=../LabInfo/README.md>实验室招生通知</a>|保研经验
+<a href=../README.md>推免信息</a>|<a href=../LabInfo/README.md>实验室招生通知(1)</a>|保研经验
 </div>
 
 
