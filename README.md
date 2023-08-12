@@ -20,9 +20,7 @@
 
 - 【**截止时间：8.21 下午16点**】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
 - 【**截止时间：8.21 下午16点**】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
-- 【**截止时间：8.21 下午16点**】 [网络研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c00e3612-55c8-44ea-bd7d-5116e5d4d74b?yxsdm=412)
 - 【**截止时间：8.21 下午16点**】 [自动化系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)
-- 【**截止时间：8.21 下午16点**】 [软件学院](https://www.zscampus.com/detail?id=15731&type=summer)
 - 【**截止时间：8.21 下午16点**】 [计算机系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
 - 【**截止时间：8.21 下午16点**】 [集成电路学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)
 - 【**截止时间：8.21 下午16点**】 [交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)
@@ -48,7 +46,6 @@
 > [南大预推免通知](https://yzb.nju.edu.cn/ae/49/c47863a634441/page.htm)
 
 - 【**截止时间：8.27**】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
-- 【**截止时间：8.27**】[软件学院](https://software.nju.edu.cn//tzgg/20230809/i249554.html)
 - 【**截止时间：8.20**】[工程管理学院夏令营（二期）](https://sme.nju.edu.cn/ad/11/c2040a634129/page.htm)
 
 # 东南大学
@@ -61,7 +58,6 @@
 - ~~【**截止时间：8.5 中午12点**】 [计算机科学与工程学院](https://cse.seu.edu.cn/2023/0627/c22646a449677/page.htm)~~
 - ~~【**截止时间：7.27 中午12点**】 [自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)~~
 
-# 南方科技大学
 
 # 哈尔滨工业大学（深圳）
 
@@ -69,7 +65,7 @@
 
 # 南开大学
 
-- 【**截止时间：N/A**】 [计算机学院、网络空间安全学院](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)
+- 【**截止时间：N/A**】 [计算机学院](https://cyber.nankai.edu.cn/2023/0615/c13348a514888/page.htm)
 
 # 天津大学
 
@@ -114,8 +110,9 @@
 
 - 【**截止时间：8.13 下午17点**】 [过程工程研究所](http://edu.ipe.ac.cn/zsxx/202307/t20230727_171360.html)
 - 【**截止时间：8.16**】 [上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202307/t20230727_6839057.html)
-- ~~【**截止时间：8.7**】 [南京天文光学技术研究所](http://www.niaot.ac.cn/xwzx/tzgg/202307/t20230710_6807792.html)~~
 - 【**截止时间：9.10 下午15点**】[电子电气与通信工程学院](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2314-2024)
+- ~~【**截止时间：8.7**】 [南京天文光学技术研究所](http://www.niaot.ac.cn/xwzx/tzgg/202307/t20230710_6807792.html)~~
+
 
 # 南京理工大学
 
