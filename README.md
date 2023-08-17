@@ -33,6 +33,7 @@
 -  【**截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 -  【**截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)
 -  【**截止时间：9.15**】 [工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
+-  【**截止时间 N/A**】 [电气工程学院专题](http://ee.zju.edu.cn/2023/0815/c32469a2789691/page.htm)
 
 # 西湖大学
 > [招收直博生公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202308/t20230808_30669.shtml)
