@@ -80,7 +80,7 @@
 
 # 北京师范大学
 
-- 【**截止时间：第一批 8.18**】 [人工智能学院](https://cist.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)
+- ~~【**截止时间：第一批 8.18**】 [人工智能学院](https://cist.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)~~
 
 # 南京航空航天大学
 
@@ -90,7 +90,7 @@
 
 - 【**截止时间：9.1**】 [智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/2284eddc08894d7491456958715e74c6.htm)
 - 【**截止日期: 8.25**】 [工程技术研究院](http://iet.ustb.edu.cn/articledetail.asp?cateID=1&ID=921)
-- 【**截止日期：8.16**】 [计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)
+- ~~【**截止日期：8.16**】 [计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-08-02/2021.html)~~
 
 
 # 西安电子科技大学
