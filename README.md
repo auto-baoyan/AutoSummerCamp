@@ -14,7 +14,7 @@
 
 - ~~【**截止时间：8.21 下午16点**】 [未来科技学院](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)~~
 
-# 清华大学
+~~# 清华大学~~
 
 - ~~【**截止时间：8.21 下午16点**】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)~~
 - ~~【**截止时间：8.21 下午16点**】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
