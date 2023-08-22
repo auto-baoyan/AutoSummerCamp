@@ -12,17 +12,17 @@
 
 # 北京大学
 
-- 【**截止时间：8.21 下午16点**】 [未来科技学院](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)
+- ~~【**截止时间：8.21 下午16点**】 [未来科技学院](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)~~
 
 # 清华大学
 
-- 【**截止时间：8.21 下午16点**】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)
-- 【**截止时间：8.21 下午16点**】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)
-- 【**截止时间：8.21 下午16点**】 [自动化系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)
-- 【**截止时间：8.21 下午16点**】 [计算机系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)
-- 【**截止时间：8.21 下午16点**】 [集成电路学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)
-- 【**截止时间：8.21 下午16点**】 [交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)
-- 【**截止时间：8.21 下午16点**】 [电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/94044b7a-cc36-4aed-b692-9740cfa47780?yxsdm=023)
+- ~~【**截止时间：8.21 下午16点**】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)~~
+- ~~【**截止时间：8.21 下午16点**】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
+- ~~【**截止时间：8.21 下午16点**】 [自动化系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb2030ab-3f6c-4a89-96b1-8e9c0aae5804?yxsdm=025)~~
+- ~~【**截止时间：8.21 下午16点**】 [计算机系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/91edec02-62f2-459a-a0af-56ff194f84fb?yxsdm=024)~~
+- ~~【**截止时间：8.21 下午16点**】 [集成电路学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6b6505b5-3ae9-4579-98b0-d395bef51bd7?yxsdm=026)~~
+- ~~【**截止时间：8.21 下午16点**】 [交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/0707733b-6d0a-4a67-afef-60f209702d00?yxsdm=047)~~
+- ~~【**截止时间：8.21 下午16点**】 [电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/94044b7a-cc36-4aed-b692-9740cfa47780?yxsdm=023)~~
 
 # 浙江大学
 
@@ -45,7 +45,7 @@
 > [南大预推免通知](https://yzb.nju.edu.cn/ae/49/c47863a634441/page.htm)
 
 - 【**截止时间：8.27**】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)
-- 【**截止时间：8.20**】[工程管理学院夏令营（二期）](https://sme.nju.edu.cn/ad/11/c2040a634129/page.htm)
+- ~~【**截止时间：8.20**】[工程管理学院夏令营（二期）](https://sme.nju.edu.cn/ad/11/c2040a634129/page.htm)~~
 
 # 东南大学
 
