@@ -156,6 +156,9 @@
 
 - 【**截至时间 9.5**】[计算机与人工智能学院预推免](https://yz.swufe.edu.cn/chaxun/yzb/tms/2024/02jiuyue/01xyxz/011.pdf)
 
+# 重庆大学
+
+- 【**截至时间 9.17**】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)
 
 ---
 
