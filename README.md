@@ -14,7 +14,7 @@
 
 - ~~【**截止时间：8.21 下午16点**】 [未来科技学院](https://future.pku.edu.cn/xwzk/3775ddc2e69d4c73a11a2e68ee3ec18a.htm)~~
 
-# <del>清华大学</del>
+# 清华大学
 
 - ~~【**截止时间：8.21 下午16点**】 [研招办](https://yz.tsinghua.edu.cn/info/1024/2569.htm)~~
 - ~~【**截止时间：8.21 下午16点**】 [鹏城实验室联培](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/48157d6c-31c9-4de2-b4dd-5bdfcceed550)~~
@@ -29,10 +29,10 @@
 > [浙大研招网](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
 
 -  ~~【**截止时间：9.11**】 [计算机科学与技术学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)~~
--  【**截止时间：9.15**】 [控制科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
--  【**截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm) 
--  【**截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)
--  【**截止时间：9.15**】 [工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)
+-  ~~【**截止时间：9.15**】 [控制科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)~~
+-  ~~【**截止时间：9.15**】 [光电科学与工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)~~
+-  ~~【**截止时间：9.15**】 [信息与电子工程学院](http://www.grs.zju.edu.cn/yjszs/2023/0805/c28498a2787859/page.htm)~~
+-  ~~【**截止时间：9.15**】 [工程师学院](https://pi.zju.edu.cn/2023/0809/c67026a2788673/page.htm)~~
 -  【**截止时间 N/A**】 [电气工程学院专题](http://ee.zju.edu.cn/2023/0815/c32469a2789691/page.htm)
 
 # 西湖大学
@@ -44,8 +44,8 @@
 
 > [南大预推免通知](https://yzb.nju.edu.cn/ae/49/c47863a634441/page.htm)
 
-- ~~【**截止时间：8.20**】[工程管理学院夏令营（二期）](https://sme.nju.edu.cn/ad/11/c2040a634129/page.htm)~~
 - ~~【**截止时间：8.27**】[计算机科学与技术系](https://cs.nju.edu.cn/ae/58/c1702a634456/page.htm)~~
+- ~~【**截止时间：8.20**】[工程管理学院夏令营（二期）](https://sme.nju.edu.cn/ad/11/c2040a634129/page.htm)~~
 
 # 东南大学
 
@@ -61,7 +61,8 @@
 # 哈尔滨工业大学（深圳）
 
 - ~~【**截止时间：第一批：8.23 第二批：9.13**】 [机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2291.htm)~~
-- 【**截止时间：9.17**】 [计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)
+- ~~【**截止时间：9.17**】 [计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/6813.htm)~~
+
 
 # 南开大学
 
@@ -158,7 +159,7 @@
 
 # 重庆大学
 
-- 【**截至时间 9.17**】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)
+- ~~【**截至时间 9.17**】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)~~
 
 ---
 
