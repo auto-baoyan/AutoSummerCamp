@@ -161,6 +161,10 @@
 
 - ~~【**截至时间 9.17**】[国家卓越工程师学院](https://mp.weixin.qq.com/s/j8F_KSKBH7tuctmNHJU98w)~~
 
+- 【**截止时间 9.24**】[自动化学院](https://yz.cqu.edu.cn/news/2023-09/2042.html)
+
+- 【**截止时间 9.23**】[计算机学院](https://yz.cqu.edu.cn/news/2023-09/2036.html)
+
 ---
 
 # 致谢
