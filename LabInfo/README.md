@@ -1,4 +1,4 @@
-# LabInfo2023
+# LabInfo2024
 
 <div align=center> 
 <a href=../README.md>推免信息</a>|实验室招生通知|<a href=../experience/README.md>保研经验</a>
@@ -14,5 +14,5 @@
 ---
 
 # 目录
-
-- [大连理工大学张雪涛老师--招收无人机感知、规划与自主探索、强化学习与智能博弈等方向](./dlut_zxt.md)
+示例：
+- [xxx课题组/xxx老师/xxx学校（院）招收xxxxx方向](xxx.123)
